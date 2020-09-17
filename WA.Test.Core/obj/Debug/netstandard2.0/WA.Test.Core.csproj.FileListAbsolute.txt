@@ -1,0 +1,9 @@
+C:\Users\Mathias\source\repos\WowAdvanced\WA.Test.Core\bin\Debug\netstandard2.0\WA.Test.Core.deps.json
+C:\Users\Mathias\source\repos\WowAdvanced\WA.Test.Core\bin\Debug\netstandard2.0\WA.Test.Core.dll
+C:\Users\Mathias\source\repos\WowAdvanced\WA.Test.Core\bin\Debug\netstandard2.0\WA.Test.Core.pdb
+C:\Users\Mathias\source\repos\WowAdvanced\WA.Test.Core\obj\Debug\netstandard2.0\WA.Test.Core.csprojAssemblyReference.cache
+C:\Users\Mathias\source\repos\WowAdvanced\WA.Test.Core\obj\Debug\netstandard2.0\WA.Test.Core.AssemblyInfoInputs.cache
+C:\Users\Mathias\source\repos\WowAdvanced\WA.Test.Core\obj\Debug\netstandard2.0\WA.Test.Core.AssemblyInfo.cs
+C:\Users\Mathias\source\repos\WowAdvanced\WA.Test.Core\obj\Debug\netstandard2.0\WA.Test.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\source\repos\WowAdvanced\WA.Test.Core\obj\Debug\netstandard2.0\WA.Test.Core.dll
+C:\Users\Mathias\source\repos\WowAdvanced\WA.Test.Core\obj\Debug\netstandard2.0\WA.Test.Core.pdb

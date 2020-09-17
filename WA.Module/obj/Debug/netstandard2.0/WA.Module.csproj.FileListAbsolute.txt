@@ -1,0 +1,12 @@
+C:\Users\Mathias\source\repos\WowAdvanced\WA.Module\bin\Debug\netstandard2.0\WA.Module.deps.json
+C:\Users\Mathias\source\repos\WowAdvanced\WA.Module\bin\Debug\netstandard2.0\WA.Module.dll
+C:\Users\Mathias\source\repos\WowAdvanced\WA.Module\bin\Debug\netstandard2.0\WA.Module.pdb
+C:\Users\Mathias\source\repos\WowAdvanced\WA.Module\bin\Debug\netstandard2.0\WA.Module.Core.dll
+C:\Users\Mathias\source\repos\WowAdvanced\WA.Module\bin\Debug\netstandard2.0\WA.Module.Core.pdb
+C:\Users\Mathias\source\repos\WowAdvanced\WA.Module\obj\Debug\netstandard2.0\WA.Module.csprojAssemblyReference.cache
+C:\Users\Mathias\source\repos\WowAdvanced\WA.Module\obj\Debug\netstandard2.0\WA.Module.AssemblyInfoInputs.cache
+C:\Users\Mathias\source\repos\WowAdvanced\WA.Module\obj\Debug\netstandard2.0\WA.Module.AssemblyInfo.cs
+C:\Users\Mathias\source\repos\WowAdvanced\WA.Module\obj\Debug\netstandard2.0\WA.Module.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\source\repos\WowAdvanced\WA.Module\obj\Debug\netstandard2.0\WA.Module.csproj.CopyComplete
+C:\Users\Mathias\source\repos\WowAdvanced\WA.Module\obj\Debug\netstandard2.0\WA.Module.dll
+C:\Users\Mathias\source\repos\WowAdvanced\WA.Module\obj\Debug\netstandard2.0\WA.Module.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HviqbXoxJjV4N2H9AVj5wHmabWAKp0bjCTkS2YcJ/RBBan2wQKcLK6F9T/qhH/fSEEQRP792T3hFMdjkThYc2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mathias\\source\\repos\\WowAdvanced\\WA.Module\\WA.Module.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mathias\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

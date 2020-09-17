@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="9.2.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.6.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.6.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.6.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WA.Dal\WA.Dal.csproj" />
+    <ProjectReference Include="..\WA.Module\WA.Module.csproj" />
+    <ProjectReference Include="..\WA.Test.Core\WA.Test.Core.csproj" />
+    <ProjectReference Include="..\WA.Test\WA.Test.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="3.1.8" />
+    <PackageReference Include="MongoDB.Driver" Version="2.10.3" />
+    <PackageReference Include="PoweredSoft.Data.Core" Version="2.0.0" />
+    <PackageReference Include="PoweredSoft.Data.MongoDB" Version="2.0.0" />
+    <PackageReference Include="PoweredSoft.ObjectStorage.MongoDB" Version="1.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WA.Dal.Core\WA.Dal.Core.csproj" />
+    <ProjectReference Include="..\WA.Module.Core\WA.Module.Core.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="9.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WA.Dal\WA.Dal.csproj" />
+    <ProjectReference Include="..\WA.Module.Core\WA.Module.Core.csproj" />
+    <ProjectReference Include="..\WA.Test.Core\WA.Test.Core.csproj" />
+  </ItemGroup>
+
+</Project>
